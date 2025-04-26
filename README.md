@@ -1,4 +1,4 @@
-# PowerBi assignemnt
+# PowerBi assignment
 PowerBI report for task assignment
 
 ## Files included
@@ -17,6 +17,7 @@ Loaded tables are connected via relations **1 to many**. According to the assign
 
 ![Data model](https://github.com/emcence/powerbi/blob/main/DataModel.png)
 
+
 ## Visualisation
 - Two Cards visualisations are created:
   - **Stock Level** showing total stocks
@@ -25,6 +26,7 @@ Loaded tables are connected via relations **1 to many**. According to the assign
 - Slicers are added that allow filtering per **Warehouse**, **Purchasing Manager** and **Product Category**
 
 ![Example of visualisations](https://github.com/emcence/powerbi/blob/main/Dashboard.png)
+
 
 ## Formating
 Default formating is taken due to lack of time
